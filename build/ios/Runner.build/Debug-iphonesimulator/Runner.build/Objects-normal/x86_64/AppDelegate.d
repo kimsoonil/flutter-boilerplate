@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/sunil.kim/Desktop/workspace/flutter-boilerplate-project/ios/Runner/AppDelegate.m \
+  /Users/sunil.kim/Desktop/workspace/flutter-boilerplate-project/ios/Runner/AppDelegate.h \
+  /Users/sunil.kim/Desktop/workspace/flutter-boilerplate-project/ios/Flutter/Flutter.framework/Modules/module.modulemap \
+  /Users/sunil.kim/Desktop/workspace/flutter-boilerplate-project/ios/Pods/Headers/Public/shared_preferences/shared_preferences.modulemap \
+  /Users/sunil.kim/Desktop/workspace/flutter-boilerplate-project/ios/Pods/Headers/Public/path_provider/path_provider.modulemap \
+  /Users/sunil.kim/Desktop/workspace/flutter-boilerplate-project/ios/Pods/Headers/Public/google_sign_in/google_sign_in.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator14.3.sdk/usr/include/mach-o/dyld.modulemap \
+  /Users/sunil.kim/Desktop/workspace/flutter-boilerplate-project/ios/Pods/Firebase/CoreOnly/Sources/module.modulemap \
+  /Users/sunil.kim/Desktop/workspace/flutter-boilerplate-project/ios/Flutter/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/sunil.kim/Desktop/workspace/flutter-boilerplate-project/ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/sunil.kim/Desktop/workspace/flutter-boilerplate-project/ios/Flutter/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/sunil.kim/Desktop/workspace/flutter-boilerplate-project/ios/Flutter/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/sunil.kim/Desktop/workspace/flutter-boilerplate-project/ios/Flutter/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/sunil.kim/Desktop/workspace/flutter-boilerplate-project/ios/Flutter/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/sunil.kim/Desktop/workspace/flutter-boilerplate-project/ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/sunil.kim/Desktop/workspace/flutter-boilerplate-project/ios/Flutter/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/sunil.kim/Desktop/workspace/flutter-boilerplate-project/ios/Flutter/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/sunil.kim/Desktop/workspace/flutter-boilerplate-project/ios/Flutter/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/sunil.kim/Desktop/workspace/flutter-boilerplate-project/ios/Flutter/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/sunil.kim/Desktop/workspace/flutter-boilerplate-project/ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/sunil.kim/Desktop/workspace/flutter-boilerplate-project/ios/Flutter/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/sunil.kim/Desktop/workspace/flutter-boilerplate-project/ios/Flutter/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/sunil.kim/Desktop/workspace/flutter-boilerplate-project/ios/Flutter/Flutter.framework/Headers/Flutter.h \
+  /Users/sunil.kim/Desktop/workspace/flutter-boilerplate-project/ios/Runner/GeneratedPluginRegistrant.h
