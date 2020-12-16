@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/sunil.kim/Desktop/workspace/flutter-boilerplate-project/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-mr/values-mr.xml",
+            "outputFile": "/Users/sunil.kim/Desktop/workspace/flutter-boilerplate/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-mr/values-mr.xml",
             "map": [
                 {
                     "source": "/Users/sunil.kim/.gradle/caches/transforms-2/files-2.1/61c610fea7429270a30e5f259eaa6032/jetified-play-services-basement-17.1.0/res/values-mr/values.xml",

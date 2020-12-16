@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/sunil.kim/Desktop/workspace/flutter-boilerplate-project/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-or/values-or.xml",
+            "outputFile": "/Users/sunil.kim/Desktop/workspace/flutter-boilerplate/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-or/values-or.xml",
             "map": [
                 {
                     "source": "/Users/sunil.kim/.gradle/caches/transforms-2/files-2.1/2e804a9aab47349aa6cb04505ed9301e/play-services-base-17.1.0/res/values-or/values.xml",
